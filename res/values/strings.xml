@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">DogQuiz</string>
+    <string-array name="question">
+        <item> %s, in vacation you like to: </item>
+        <item> %s, you shop: </item>
+        <item> %s, where do you celebrate your birthday ? </item>
+        <item> %s, what is your dream car ? </item>
+        <item> %s, in the morning you wake up : </item>
+        <item> %s, how do you say hi to a friend ? </item>
+        <item> %s, your favorite drink is ? </item>
+        <item> %s, on weekend mornings you are :</item>
+        <item> %s, what type of movie do you like ? </item>
+        <item> %s, are you a lazy person ? </item>
+            </string-array>
+    <string-array name="answer1">
+        <item>Go to a resort</item>
+        <item>Only from well known brands</item>
+        <item>At an exclusive club</item>
+        <item>A limo</item>
+        <item>Hard</item>
+        <item>With a kiss an the cheek</item>
+        <item>Tequila</item>
+        <item>Still sleeping</item>
+        <item>Romantic</item>
+    </string-array>
+    <string-array name="answer2">
+        <item>Watch movies and sleep</item>
+        <item>Just discount</item>
+        <item>At a nightclub</item>
+        <item>A sports car</item>
+        <item>Easy</item>
+        <item>I say hi and walk away</item>
+        <item>Water with lime</item>
+        <item>Already awake</item>
+        <item>Comedy</item>
+    </string-array>
+    <string-array name="answer3">
+        <item>Workout</item>
+        <item>Anything</item>
+        <item>At home</item>
+        <item>A tank</item>
+        <item>I don\'t wake up at all</item>
+        <item>With a hug</item>
+        <item>Juice</item>
+        <item>Making coffee</item>
+        <item>Thriller, Action</item>
+    </string-array>
+
+    <string name="result1">In dog world you might be a Labrador. \nAgressive, spontaneous and hyperactiv.</string>
+    <string name="result2">In dog world you might be a Cocker. \nNice, simple and friendly</string>
+    <string name="result3">In dog world you might be a Chihuahua. \nStylish, exclusivist and very pretentious</string>
+    <string name="name">Name:</string>
+    <string name="toemail">Email the results to me</string>
+    <string name="email">Email:</string>
+    <string name="check">Check Results</string>
+    <string name="start">Start the Quiz</string>
+    <string name="next">Next Question</string>
+    <string name="restart">Restart</string>
+    <string name="title">Welcome to the \n\"What type of dog are you\" quiz \nPlease enter your name to get started \n Have fun !</string>
+    <string name="error">You must enter a name to continue</string>
+    <string name="error2">Choose an answer to continue</string>
+    <string name="questionNumber">QUESTION %d</string>
+    <string name="hint">yes/no/maybe</string>
+    <string name="finish">CONGRATULATIONS</string>
+</resources>
