@@ -1,0 +1,15 @@
+<resources>
+
+    <!-- Base application theme. -->
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your theme here. -->
+        <item name="colorPrimary">#607d8b</item>
+        <item name="colorPrimaryDark">#607d8b</item>
+        <item name="colorAccent">#b3e5ff</item>
+        <item name="android:windowBackground">@android:color/white</item>
+        <item name="android:navigationBarColor">#607d8b</item>
+        <item name="android:textColor">@android:color/black</item>
+        <item name="android:colorButtonNormal">#7295a6</item>
+    </style>
+
+</resources>
